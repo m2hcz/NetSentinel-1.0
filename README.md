@@ -6,7 +6,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Scapy](https://img.shields.io/badge/Scapy-2.5+-2C2D72?style=for-the-badge&logo=wireshark&logoColor=white)](https://scapy.net)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
 
 <img src="https://raw.githubusercontent.com/yourusername/netsentinel/main/assets/demo.gif" alt="NetSentinel Demo" width="800">
